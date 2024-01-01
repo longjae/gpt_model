@@ -7,3 +7,4 @@
 
 ### Update
 2024.1.1 Langchain 입문
+2024.1.1 Langchain - ModelIO
